@@ -1,8 +1,8 @@
-## Multi Virtual Machine 
+## Authoring a Template 
 
 *draft*
 
-Azure Marketplace is great place to publish your apps
+Azure Marketplace is great place to publish your apps 
 Here's example of web link [Azure web site](http://azure.microsoft.com//) and the [Azure stuff on github](http://azure.github.io/).
 Wiki also have *another font* which may be usefull too.
 
@@ -16,14 +16,16 @@ Example of some json code
 { "some": "json" }
 ```
 
-# Overview 
 
-# Building the Offering 
+# Template Structure and Functions 
 
-# Examples 
+# Azure Template Gallery Overview 
 
-# On-Boarding Process 
+# Line-by-line: Basic template  
 
-# Tip & Tricks 
+# Line-by-line: Intermediate template 
 
-# Resources and References 
+# Line-by-line: Complex template 
+
+# Best Practices 
+

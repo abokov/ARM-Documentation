@@ -20,6 +20,38 @@ This reference is available as a [single page](singlepage.md) or [split into mul
 
  * [Introduction](Marketplace/Introduction.md)
  * [Single VM](Marketplace/Single-vm.md)
+ * [Multi VM](Marketplace/Multi-vm.md)
+ * [VM Extensions](Marketplace/VM-extensions.md)
+ * [Developer services](Marketplace/Developer-services.md)
+ * [Data services](Marketplace/Data-services.md)
+
+#Azure Resource Manager  
+
+ * [Introduction into Azure Resource Manager and it's architecture](ARM/Introduction.md)
+ * [Security and authentication](ARM/Security.md)
+
+## SDK and toolkits
+ * [Java SDK](ARM/Java-sdk.md)
+ * [.NET SDK](ARM/Net-sdk.md)
+ * [Python SDK](ARM/Python-sdk.md)
+ * [REST API Reference and deep dive](ARM/Rest-api.md)
+
+## Azure Resource Manager Templates
+ * [Introduction and basic concepts of templates](Templates/Introduction.md)
+ * [Authoring a template](Templates/Authoring.md)
+
+## DevOps with Azure Resource Manager
+
+ * [Command Line interface](DevOps/CLI.md)
+ * [Powershell](DevOps/Powershell.md)
+ * [Visual Studio](DevOps/Visual-studio.md)
+
+## Design and implement with the Azure Resource Manager – a real use case overview 
+  * [Scenario 1](Use-cases/Scenario-1.md)
+  * [Scenario 2](Use-cases/Scenario-2.md)
+
+# * [Best practices](Tips-and-tricks/Best-practices.md)
+
 
 
 ## Acknowledgements and contributors

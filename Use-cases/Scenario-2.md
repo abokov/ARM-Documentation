@@ -1,8 +1,8 @@
-## Multi Virtual Machine 
+## Scenario 2
 
 *draft*
 
-Azure Marketplace is great place to publish your apps
+Azure Marketplace is great place to publish your apps 
 Here's example of web link [Azure web site](http://azure.microsoft.com//) and the [Azure stuff on github](http://azure.github.io/).
 Wiki also have *another font* which may be usefull too.
 
@@ -16,14 +16,9 @@ Example of some json code
 { "some": "json" }
 ```
 
-# Overview 
+# Architecture and Design Overview 
 
-# Building the Offering 
+# Building the Templates 
 
-# Examples 
+# Deployment 
 
-# On-Boarding Process 
-
-# Tip & Tricks 
-
-# Resources and References 

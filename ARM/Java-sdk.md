@@ -1,8 +1,8 @@
-## Multi Virtual Machine 
+## ARM JAVA SDK
 
 *draft*
 
-Azure Marketplace is great place to publish your apps
+Azure Marketplace is great place to publish your apps 
 Here's example of web link [Azure web site](http://azure.microsoft.com//) and the [Azure stuff on github](http://azure.github.io/).
 Wiki also have *another font* which may be usefull too.
 
@@ -16,14 +16,12 @@ Example of some json code
 { "some": "json" }
 ```
 
+
 # Overview 
 
-# Building the Offering 
+# Authentication Sample 
 
-# Examples 
+# "Hello World" Sample 
 
-# On-Boarding Process 
-
-# Tip & Tricks 
-
-# Resources and References 
+# Going deep and references
+  

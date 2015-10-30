@@ -1,8 +1,8 @@
-## Multi Virtual Machine 
+## Introduction to Azure Resource Manager templates
 
 *draft*
 
-Azure Marketplace is great place to publish your apps
+Azure Marketplace is great place to publish your apps 
 Here's example of web link [Azure web site](http://azure.microsoft.com//) and the [Azure stuff on github](http://azure.github.io/).
 Wiki also have *another font* which may be usefull too.
 
@@ -18,12 +18,5 @@ Example of some json code
 
 # Overview 
 
-# Building the Offering 
+# Examples
 
-# Examples 
-
-# On-Boarding Process 
-
-# Tip & Tricks 
-
-# Resources and References 

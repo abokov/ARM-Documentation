@@ -1,4 +1,4 @@
-## Single Virtual Machine 
+## Virtual Machine Extensions
 
 *draft*
 

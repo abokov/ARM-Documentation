@@ -18,11 +18,10 @@ This reference is available as a [single page](singlepage.md) or [split into mul
 
 # Marketplace
 
- * [Marketplace](1 Marketplace/Introduction.md)
- * [Marketplace](1 Marketplace/Single-vm.md)
-
+ * [Introduction](Marketplace/Introduction.md)
+ * [Single VM](Marketplace/Single-vm.md)
 
 
 ## Acknowledgements and contributors
 
-Feel free to join us on working on this project
+Feel free to join us on working on this project.

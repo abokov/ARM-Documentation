@@ -60,5 +60,4 @@ This reference is available as a [single page](singlepage.md) or [split into mul
 Feel free to join us on working on this project.
 
 ## How to 
-Please refer to
-(GitWiki Markdown Cheatsheet)[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
+Please refer to [GitWiki Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)

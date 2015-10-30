@@ -1,4 +1,4 @@
-# Azure Markeplace - introduction
+## Developer services
 
 *draft*
 
@@ -16,8 +16,14 @@ Example of some json code
 { "some": "json" }
 ```
 
+# Overview 
 
+# Building the Offering 
 
-# Marketplace Verticals Overview 
+# Examples 
 
-# On boarding the Marketplace 
+# On-Boarding Process 
+
+# Tip & Tricks 
+
+# Resources and References 
